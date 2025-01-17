@@ -1,0 +1,21 @@
+/* Footer.css */
+.footer-container {
+    width: 100%;
+    background: linear-gradient(90deg, #388e3c, #4caf50);
+    color: #ffffff;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    z-index: 1000;
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+    box-shadow: 0 -2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .footer-container p {
+    margin: 0;
+    letter-spacing: 1px;
+  }
+  

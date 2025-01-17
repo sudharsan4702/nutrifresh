@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nutrifresh/static/css/main.b52355e0.css",
+    "main.js": "/nutrifresh/static/js/main.edaf3808.js",
+    "static/js/488.a92e22e1.chunk.js": "/nutrifresh/static/js/488.a92e22e1.chunk.js",
+    "index.html": "/nutrifresh/index.html",
+    "main.b52355e0.css.map": "/nutrifresh/static/css/main.b52355e0.css.map",
+    "main.edaf3808.js.map": "/nutrifresh/static/js/main.edaf3808.js.map",
+    "488.a92e22e1.chunk.js.map": "/nutrifresh/static/js/488.a92e22e1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b52355e0.css",
+    "static/js/main.edaf3808.js"
+  ]
+}
